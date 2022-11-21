@@ -3,3 +3,5 @@
 	email = mrantigg@gmail.com
 [alias]
 	history = log --graph
+[core]
+	editor = vim
